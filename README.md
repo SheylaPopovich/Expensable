@@ -36,7 +36,7 @@ Offline entries should be added to tracker.
 
 
 # Screenshots
-![App Screenshot](assets\screenshot-transactions.png)
+![Expensable](assets\screenshot-transactions.png)
 
 ## Feedback
 If you have any feedback, please reach out to us at SheylaPopovich@gmail.com
