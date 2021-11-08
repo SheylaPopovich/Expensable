@@ -36,7 +36,7 @@ Offline entries should be added to tracker.
 
 
 # Screenshots
-![Expensable](assets\screenshot-transactions.png)
+![Expensable](https://github.com/SheylaPopovich/Expensable/blob/main/assets/screenshot-transactions.png)
 
 ## Feedback
 If you have any feedback, please reach out to us at SheylaPopovich@gmail.com
