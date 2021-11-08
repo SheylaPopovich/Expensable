@@ -3,8 +3,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 <br>
 <br>
 # Project 
-This [Demo Video]( https://github.com/SheylaPopovich/Expensable/blob/main/assets/_Budget-tracker-demo.webm
-) will walk you through the application and its usage. <br> <br> <a href="https://ghostly-fangs-90647.herokuapp.com/ "><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+This [Demo Video]( https://drive.google.com/file/d/16Cq-wyUdTlcVyiBaqs8oEzl6kauLvy94/view?usp=sharing) will walk you through the application and its usage. <br> <br> <a href="https://ghostly-fangs-90647.herokuapp.com/ "><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 <br>
 <br>
 # Deployment
