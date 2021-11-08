@@ -8,11 +8,7 @@ https://ghostly-fangs-90647.herokuapp.com/
 A brief description of what this project does and who it's for
 
 
-## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 ## Demo
 
@@ -41,12 +37,10 @@ To deploy this project run
 If you have any feedback, please reach out to us at fake@fake.com
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
+# License
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](assets\screenshot-transactions.png)
 
